@@ -1,0 +1,3594 @@
+DBG: add_reloc entered nrelocs=0 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=fopen
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=__str_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=perror
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=fclose
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=strlen
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=memcpy
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=SEC_NAMES
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=SEC_NAMES
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=__str_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=8 sym=snprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=9 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=10 sym=__str_5
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=11 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=12 sym=__str_6
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=13 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=14 sym=__str_7
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=15 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=16 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=17 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=18 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=19 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=20 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=21 sym=__static_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=22 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=23 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=24 sym=sym_find
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=25 sym=__str_8
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=26 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=27 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=28 sym=__static_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=29 sym=__static_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=30 sym=__static_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=31 sym=SEC_IS_BSS
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=32 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=33 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=34 sym=__str_9
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=35 sym=fopen
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=36 sym=__str_10
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=37 sym=perror
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=38 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=39 sym=SEC_IS_BSS
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=40 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=41 sym=__static_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=42 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=43 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=44 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=45 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=46 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=47 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=48 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=49 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=50 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=51 sym=ftell
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=52 sym=fputc
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=53 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=54 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=55 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=56 sym=SEC_IS_BSS
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=57 sym=SEC_IS_EXEC
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=58 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=59 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=60 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=61 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=62 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=63 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=64 sym=__static_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=65 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=66 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=67 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=68 sym=fwrite
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=69 sym=fclose
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=70 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=71 sym=__str_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=72 sym=__str_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=73 sym=__str_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=__str_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=__str_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=8 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=9 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=10 sym=__str_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=11 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=12 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=13 sym=__str_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=14 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=15 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=16 sym=__str_5
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=17 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=18 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=19 sym=__str_6
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=20 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=21 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=22 sym=__str_7
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=23 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=24 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=25 sym=__str_8
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=26 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=27 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=28 sym=sym_find
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=29 sym=__str_9
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=30 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=31 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=32 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=33 sym=sym_find
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=34 sym=__str_10
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=35 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=36 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=37 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=38 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=39 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=40 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=41 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=42 sym=__str_17
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=43 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=44 sym=__str_18
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=45 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=46 sym=__str_19
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=47 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=48 sym=__str_20
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=49 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=50 sym=__str_21
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=51 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=52 sym=__str_22
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=53 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=54 sym=__str_23
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=55 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=56 sym=__str_24
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=57 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=58 sym=__str_25
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=59 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=60 sym=__str_26
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=61 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=62 sym=__str_27
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=63 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=64 sym=__str_28
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=65 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=66 sym=__str_29
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=67 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=68 sym=__str_30
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=69 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=70 sym=__str_31
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=71 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=72 sym=__str_32
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=73 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=74 sym=__str_33
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=75 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=76 sym=__str_34
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=77 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=78 sym=__str_35
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=79 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=80 sym=__str_36
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=81 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=82 sym=__str_37
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=83 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=84 sym=__str_38
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=85 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=86 sym=__str_39
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=87 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=88 sym=__str_40
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=89 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=90 sym=__str_41
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=91 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=92 sym=__str_42
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=93 sym=strncmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=94 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=95 sym=__str_49
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=96 sym=snprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=97 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=98 sym=__static_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=99 sym=__str_50
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=100 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=101 sym=__str_51
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=102 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=103 sym=__str_52
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=104 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=105 sym=__str_53
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=106 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=107 sym=__str_54
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=108 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=109 sym=__str_55
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=110 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=111 sym=__str_56
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=112 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=113 sym=__str_57
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=114 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=115 sym=__str_58
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=116 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=117 sym=__str_59
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=118 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=119 sym=__str_60
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=120 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=121 sym=__str_61
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=122 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=123 sym=__str_62
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=124 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=125 sym=__str_63
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=126 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=127 sym=__str_64
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=128 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=129 sym=__str_65
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=130 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=131 sym=__str_66
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=132 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=133 sym=__str_67
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=134 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=135 sym=__str_68
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=136 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=137 sym=__str_69
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=138 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=139 sym=__str_70
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=140 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=141 sym=__str_71
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=142 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=143 sym=__str_72
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=144 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=145 sym=__str_73
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=146 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=147 sym=__str_74
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=148 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=149 sym=__str_75
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=150 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=151 sym=__str_76
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=152 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=153 sym=__str_77
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=154 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=155 sym=__str_78
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=156 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=157 sym=__str_79
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=158 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=159 sym=__str_80
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=160 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=161 sym=__str_81
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=162 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=163 sym=__str_82
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=164 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=165 sym=__str_83
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=166 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=167 sym=__str_84
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=168 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=169 sym=__str_85
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=170 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=171 sym=__str_86
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=172 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=173 sym=__str_87
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=174 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=175 sym=__str_88
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=176 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=177 sym=__str_89
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=178 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=179 sym=__str_90
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=180 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=181 sym=__str_91
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=182 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=183 sym=__str_92
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=184 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=185 sym=__str_93
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=186 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=187 sym=__str_94
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=188 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=189 sym=__str_95
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=190 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=191 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=192 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=193 sym=__str_96
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=194 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=195 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=196 sym=__str_11
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=197 sym=__str_12
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=198 sym=__str_13
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=199 sym=__str_14
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=200 sym=__str_15
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=201 sym=__str_16
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=202 sym=__str_43
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=203 sym=__str_44
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=204 sym=__str_45
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=205 sym=__str_46
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=206 sym=__str_47
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=207 sym=__str_48
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=strlen
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=isalpha
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=isalnum
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=memcpy
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=isdigit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=isalnum
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=memcpy
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=fopen
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=__str_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=perror
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=fseek
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=ftell
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=fseek
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=8 sym=malloc
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=9 sym=fread
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=10 sym=__str_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=11 sym=perror
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=12 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=13 sym=fclose
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=14 sym=__str_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=15 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=16 sym=__str_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=17 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=18 sym=__str_5
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=19 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=20 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=21 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=22 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=23 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=24 sym=as_parse_pass1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=25 sym=__str_6
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=26 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=27 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=28 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=29 sym=as_encode_pass2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=30 sym=__str_7
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=31 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=32 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=33 sym=__str_8
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=34 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=35 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=36 sym=write_bin
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=37 sym=__str_9
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=38 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=39 sym=__static_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=40 sym=write_elf32
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=41 sym=__str_10
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=42 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=43 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=tolower
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=8 sym=tolower
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=9 sym=__str_1
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=10 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=11 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=12 sym=REGS
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=13 sym=strcmp
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=14 sym=REGS
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=15 sym=__str_33
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=16 sym=__str_34
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=17 sym=__str_35
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=18 sym=__str_36
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=19 sym=__str_37
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=20 sym=__str_38
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=21 sym=__str_39
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=22 sym=__str_40
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=23 sym=__str_41
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=24 sym=stmt_encode
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=25 sym=__str_42
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=26 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=27 sym=fprintf
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=28 sym=exit
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=29 sym=__str_43
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=30 sym=__str_44
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=31 sym=__str_45
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=32 sym=__str_46
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=33 sym=__str_47
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=34 sym=__str_48
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=35 sym=__str_49
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=36 sym=__str_50
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=37 sym=__str_51
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=38 sym=__str_52
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=39 sym=__str_53
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=40 sym=__str_54
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=41 sym=__str_55
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=42 sym=__str_56
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=43 sym=__str_57
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=44 sym=__str_58
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=45 sym=__str_59
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=46 sym=__str_60
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=47 sym=__str_61
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=48 sym=__str_62
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=49 sym=__str_63
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=50 sym=__str_64
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=51 sym=__str_65
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=52 sym=__str_66
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=53 sym=__str_67
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=54 sym=__str_68
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=55 sym=__str_69
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=56 sym=__str_70
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=57 sym=tolower
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=58 sym=__str_71
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=59 sym=lexer_init
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=60 sym=lexer_next
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=61 sym=__str_2
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=62 sym=__str_3
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=63 sym=__str_4
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=64 sym=__str_5
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=65 sym=__str_6
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=66 sym=__str_7
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=67 sym=__str_8
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=68 sym=__str_9
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=69 sym=__str_10
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=70 sym=__str_11
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=71 sym=__str_12
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=72 sym=__str_13
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=73 sym=__str_14
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=74 sym=__str_15
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=75 sym=__str_16
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=76 sym=__str_17
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=77 sym=__str_18
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=78 sym=__str_19
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=79 sym=__str_20
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=80 sym=__str_21
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=81 sym=__str_22
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=82 sym=__str_23
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=83 sym=__str_24
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=84 sym=__str_25
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=85 sym=__str_26
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=86 sym=__str_27
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=87 sym=__str_28
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=88 sym=__str_29
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=89 sym=__str_30
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=90 sym=__str_31
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=91 sym=__str_32
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=malloc
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=free
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=g_stdout_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=__str_0
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=g_stderr_file
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=0 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=1 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=2 sym=g_heap_end
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=3 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=4 sym=g_heap_end
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=5 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=6 sym=g_heap_end
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=7 sym=g_heap_end
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=8 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=9 sym=g_heap_cur
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+DBG: add_reloc entered nrelocs=10 sym=memset
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done
+/bin/bash: line 23: 3736913 Segmentation fault      (core dumped) timeout 3 ./build/stage2_dbg/as -f elf32 -o /tmp/tmin5.o /tmp/tmin5.S > /tmp/full_trace.log 2>&1
+exit=139
+DBG: add_reloc entered nrelocs=0 sym=g_inodes
+DBG: about to index relocs array
+DBG: got r, about to set section
+DBG: set section, about to set offset
+DBG: set offset, about to strcpy sym
+DBG: strcpy done, about to set addend
+DBG: set addend, about to set kind
+DBG: add_reloc done

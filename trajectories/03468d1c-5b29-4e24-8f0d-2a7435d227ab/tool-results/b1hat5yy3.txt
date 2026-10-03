@@ -1,0 +1,1302 @@
+=== connected over serial (no keyboard involved) ===
+play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Leafling appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Leafling: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Leafling appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Leafling: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Leafling appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Leafling: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+Wild Leafling takes 4 damage. (HP 28/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 11 damage. (HP 21/32)
+Your Leafling: HP 21/32
+Wild Leafling: HP 28/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+Wild Leafling takes 9 damage. (HP 19/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 9 damage. (HP 12/32)
+Your Leafling: HP 12/32
+Wild Leafling: HP 19/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+Wild Leafling takes 8 damage. (HP 11/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 9 damage. (HP 3/32)
+Your Leafling: HP 3/32
+Wild Leafling: HP 11/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+Wild Leafling takes 5 damage. (HP 6/32)
+Wild Leafling uses Tackle!
+Your Leafling takes 4 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 8 damage. (HP 22/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 1 damage. (HP 31/32)
+Your Leafling: HP 31/32
+Wild Aqualing: HP 22/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 14 damage. (HP 8/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 4 damage. (HP 27/32)
+Your Leafling: HP 27/32
+Wild Aqualing: HP 8/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 15 damage. (HP 0/30)
+Wild Aqualing fainted! You win!
+=== A wild Aqualing appears! (stage 2)
+Your Leafling: HP 27/32
+Wild Aqualing: HP 34/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 2)
+Your Leafling: HP 27/32
+Wild Emberpup: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Leafling appears! (stage 2)
+Your Leafling: HP 27/32
+Wild Leafling: HP 36/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+Wild Leafling takes 8 damage. (HP 28/36)
+Wild Leafling uses Vine Whip!
+Your Leafling takes 5 damage. (HP 22/32)
+Your Leafling: HP 22/32
+Wild Leafling: HP 28/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+Wild Leafling takes 6 damage. (HP 22/36)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 11 damage. (HP 11/32)
+Your Leafling: HP 11/32
+Wild Leafling: HP 22/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+Wild Leafling takes 6 damage. (HP 16/36)
+Wild Leafling uses Vine Whip!
+Your Leafling takes 6 damage. (HP 5/32)
+Your Leafling: HP 5/32
+Wild Leafling: HP 16/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+Wild Leafling takes 12 damage. (HP 4/36)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 12 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 2.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 9 damage. (HP 21/30)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 2 damage. (HP 30/32)
+Your Leafling: HP 30/32
+Wild Aqualing: HP 21/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 15 damage. (HP 6/30)
+Wild Aqualing uses Tide Wave!
+It's not very effective...
+Your Leafling takes 5 damage. (HP 25/32)
+Your Leafling: HP 25/32
+Wild Aqualing: HP 6/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's super effective!
+Wild Aqualing takes 5 damage. (HP 1/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 4 damage. (HP 21/32)
+Your Leafling: HP 21/32
+Wild Aqualing: HP 1/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's super effective!
+Wild Aqualing takes 7 damage. (HP 0/30)
+Wild Aqualing fainted! You win!
+=== A wild Aqualing appears! (stage 2)
+Your Leafling: HP 21/32
+Wild Aqualing: HP 34/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 11 damage. (HP 23/34)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 4 damage. (HP 17/32)
+Your Leafling: HP 17/32
+Wild Aqualing: HP 23/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 13 damage. (HP 10/34)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 2 damage. (HP 15/32)
+Your Leafling: HP 15/32
+Wild Aqualing: HP 10/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 10 damage. (HP 0/34)
+Wild Aqualing fainted! You win!
+=== A wild Emberpup appears! (stage 3)
+Your Leafling: HP 15/32
+Wild Emberpup: HP 36/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 3 damage. (HP 33/36)
+Wild Emberpup uses Scratch!
+It's super effective!
+Your Leafling takes 8 damage. (HP 7/32)
+Your Leafling: HP 7/32
+Wild Emberpup: HP 33/36
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 29/36)
+Wild Emberpup uses Ember!
+It's super effective!
+Your Leafling takes 10 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 3.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 11 damage. (HP 19/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 4 damage. (HP 28/32)
+Your Leafling: HP 28/32
+Wild Aqualing: HP 19/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 15 damage. (HP 4/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 3 damage. (HP 25/32)
+Your Leafling: HP 25/32
+Wild Aqualing: HP 4/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 1)
+Your Leafling: HP 25/32
+Wild Emberpup: HP 28/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 24/28)
+Wild Emberpup uses Flame Burst!
+It's super effective!
+Your Leafling takes 13 damage. (HP 12/32)
+Your Leafling: HP 12/32
+Wild Emberpup: HP 24/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 20/28)
+Wild Emberpup uses Ember!
+It's super effective!
+Your Leafling takes 12 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 1
+=== A wild Emberpup appears! (stage 1)
+Your Emberpup: HP 28/28
+Wild Emberpup: HP 28/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 3
+Your Emberpup uses Flame Burst!
+Wild Emberpup takes 9 damage. (HP 19/28)
+Wild Emberpup uses Ember!
+Your Emberpup takes 6 damage. (HP 22/28)
+Your Emberpup: HP 22/28
+Wild Emberpup: HP 19/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+Wild Emberpup takes 9 damage. (HP 10/28)
+Wild Emberpup uses Scratch!
+Your Emberpup takes 4 damage. (HP 18/28)
+Your Emberpup: HP 18/28
+Wild Emberpup: HP 10/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+Wild Emberpup takes 4 damage. (HP 6/28)
+Wild Emberpup uses Ember!
+Your Emberpup takes 9 damage. (HP 9/28)
+Your Emberpup: HP 9/28
+Wild Emberpup: HP 6/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+Wild Emberpup takes 5 damage. (HP 1/28)
+Wild Emberpup uses Scratch!
+Your Emberpup takes 3 damage. (HP 6/28)
+Your Emberpup: HP 6/28
+Wild Emberpup: HP 1/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+Wild Emberpup takes 7 damage. (HP 0/28)
+Wild Emberpup fainted! You win!
+=== A wild Aqualing appears! (stage 2)
+Your Emberpup: HP 6/28
+Wild Aqualing: HP 34/34
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+It's not very effective...
+Wild Aqualing takes 3 damage. (HP 31/34)
+Wild Aqualing uses Water Jet!
+It's super effective!
+Your Emberpup takes 8 damage. (HP 0/28)
+Your Emberpup fainted... Game over! You reached stage 2.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 1
+=== A wild Emberpup appears! (stage 1)
+Your Emberpup: HP 28/28
+Wild Emberpup: HP 28/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+Wild Emberpup takes 6 damage. (HP 22/28)
+Wild Emberpup uses Flame Burst!
+Your Emberpup takes 12 damage. (HP 16/28)
+Your Emberpup: HP 16/28
+Wild Emberpup: HP 22/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+Wild Emberpup takes 6 damage. (HP 16/28)
+Wild Emberpup uses Scratch!
+Your Emberpup takes 7 damage. (HP 9/28)
+Your Emberpup: HP 9/28
+Wild Emberpup: HP 16/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+Wild Emberpup takes 5 damage. (HP 11/28)
+Wild Emberpup uses Flame Burst!
+Your Emberpup takes 8 damage. (HP 1/28)
+Your Emberpup: HP 1/28
+Wild Emberpup: HP 11/28
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+Wild Emberpup takes 9 damage. (HP 2/28)
+Wild Emberpup uses Ember!
+Your Emberpup takes 6 damage. (HP 0/28)
+Your Emberpup fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's super effective!
+Wild Aqualing takes 8 damage. (HP 22/30)
+Wild Aqualing uses Tide Wave!
+It's not very effective...
+Your Leafling takes 6 damage. (HP 26/32)
+Your Leafling: HP 26/32
+Wild Aqualing: HP 22/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 10 damage. (HP 12/30)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 4 damage. (HP 22/32)
+Your Leafling: HP 22/32
+Wild Aqualing: HP 12/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's super effective!
+Wild Aqualing takes 9 damage. (HP 3/30)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 2 damage. (HP 20/32)
+Your Leafling: HP 20/32
+Wild Aqualing: HP 3/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 16 damage. (HP 0/30)
+Wild Aqualing fainted! You win!
+=== A wild Aqualing appears! (stage 2)
+Your Leafling: HP 20/32
+Wild Aqualing: HP 34/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 13 damage. (HP 21/34)
+Wild Aqualing uses Tide Wave!
+It's not very effective...
+Your Leafling takes 7 damage. (HP 13/32)
+Your Leafling: HP 13/32
+Wild Aqualing: HP 21/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 14 damage. (HP 7/34)
+Wild Aqualing uses Tide Wave!
+It's not very effective...
+Your Leafling takes 5 damage. (HP 8/32)
+Your Leafling: HP 8/32
+Wild Aqualing: HP 7/34
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 2)
+Your Leafling: HP 8/32
+Wild Emberpup: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's not very effective...
+Wild Emberpup takes 1 damage. (HP 31/32)
+Wild Emberpup uses Scratch!
+It's super effective!
+Your Leafling takes 9 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 2.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 1
+=== A wild Leafling appears! (stage 1)
+Your Emberpup: HP 28/28
+Wild Leafling: HP 32/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> run
+You ran away!
+=== A wild Aqualing appears! (stage 1)
+Your Emberpup: HP 28/28
+Wild Aqualing: HP 30/30
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+It's not very effective...
+Wild Aqualing takes 4 damage. (HP 26/30)
+Wild Aqualing uses Tide Wave!
+It's super effective!
+Your Emberpup takes 16 damage. (HP 12/28)
+Your Emberpup: HP 12/28
+Wild Aqualing: HP 26/30
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+It's not very effective...
+Wild Aqualing takes 1 damage. (HP 25/30)
+Wild Aqualing uses Tide Wave!
+It's super effective!
+Your Emberpup takes 15 damage. (HP 0/28)
+Your Emberpup fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 2
+=== A wild Leafling appears! (stage 1)
+Your Aqualing: HP 30/30
+Wild Leafling: HP 32/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's not very effective...
+Wild Leafling takes 1 damage. (HP 31/32)
+Wild Leafling uses Vine Whip!
+It's super effective!
+Your Aqualing takes 8 damage. (HP 22/30)
+Your Aqualing: HP 22/30
+Wild Leafling: HP 31/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's not very effective...
+Wild Leafling takes 3 damage. (HP 28/32)
+Wild Leafling uses Leaf Storm!
+It's super effective!
+Your Aqualing takes 17 damage. (HP 5/30)
+Your Aqualing: HP 5/30
+Wild Leafling: HP 28/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> run
+You ran away!
+=== A wild Aqualing appears! (stage 1)
+Your Aqualing: HP 5/30
+Wild Aqualing: HP 30/30
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+Wild Aqualing takes 6 damage. (HP 24/30)
+Wild Aqualing uses Water Jet!
+Your Aqualing takes 7 damage. (HP 0/30)
+Your Aqualing fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 2
+=== A wild Emberpup appears! (stage 1)
+Your Aqualing: HP 30/30
+Wild Emberpup: HP 28/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's super effective!
+Wild Emberpup takes 7 damage. (HP 21/28)
+Wild Emberpup uses Scratch!
+It's not very effective...
+Your Aqualing takes 3 damage. (HP 27/30)
+Your Aqualing: HP 27/30
+Wild Emberpup: HP 21/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 3
+Your Aqualing uses Tide Wave!
+It's super effective!
+Wild Emberpup takes 14 damage. (HP 7/28)
+Wild Emberpup uses Ember!
+It's not very effective...
+Your Aqualing takes 3 damage. (HP 24/30)
+Your Aqualing: HP 24/30
+Wild Emberpup: HP 7/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 3
+Your Aqualing uses Tide Wave!
+It's super effective!
+Wild Emberpup takes 13 damage. (HP 0/28)
+Wild Emberpup fainted! You win!
+=== A wild Leafling appears! (stage 2)
+Your Aqualing: HP 24/30
+Wild Leafling: HP 36/36
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's not very effective...
+Wild Leafling takes 3 damage. (HP 33/36)
+Wild Leafling uses Leaf Storm!
+It's super effective!
+Your Aqualing takes 13 damage. (HP 11/30)
+Your Aqualing: HP 11/30
+Wild Leafling: HP 33/36
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's not very effective...
+Wild Leafling takes 2 damage. (HP 31/36)
+Wild Leafling uses Tackle!
+It's super effective!
+Your Aqualing takes 8 damage. (HP 3/30)
+Your Aqualing: HP 3/30
+Wild Leafling: HP 31/36
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's not very effective...
+Wild Leafling takes 2 damage. (HP 29/36)
+Wild Leafling uses Tackle!
+It's super effective!
+Your Aqualing takes 6 damage. (HP 0/30)
+Your Aqualing fainted... Game over! You reached stage 2.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's super effective!
+Wild Aqualing takes 17 damage. (HP 13/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 1 damage. (HP 31/32)
+Your Leafling: HP 31/32
+Wild Aqualing: HP 13/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 1)
+Your Leafling: HP 31/32
+Wild Emberpup: HP 28/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 24/28)
+Wild Emberpup uses Ember!
+It's super effective!
+Your Leafling takes 8 damage. (HP 23/32)
+Your Leafling: HP 23/32
+Wild Emberpup: HP 24/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 20/28)
+Wild Emberpup uses Ember!
+It's super effective!
+Your Leafling takes 10 damage. (HP 13/32)
+Your Leafling: HP 13/32
+Wild Emberpup: HP 20/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 3 damage. (HP 17/28)
+Wild Emberpup uses Flame Burst!
+It's super effective!
+Your Leafling takes 15 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 2
+=== A wild Emberpup appears! (stage 1)
+Your Aqualing: HP 30/30
+Wild Emberpup: HP 28/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's super effective!
+Wild Emberpup takes 7 damage. (HP 21/28)
+Wild Emberpup uses Flame Burst!
+It's not very effective...
+Your Aqualing takes 5 damage. (HP 25/30)
+Your Aqualing: HP 25/30
+Wild Emberpup: HP 21/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 3
+Your Aqualing uses Tide Wave!
+It's super effective!
+Wild Emberpup takes 16 damage. (HP 5/28)
+Wild Emberpup uses Scratch!
+It's not very effective...
+Your Aqualing takes 1 damage. (HP 24/30)
+Your Aqualing: HP 24/30
+Wild Emberpup: HP 5/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 1)
+Your Aqualing: HP 24/30
+Wild Emberpup: HP 28/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 3
+Your Aqualing uses Tide Wave!
+It's super effective!
+Wild Emberpup takes 15 damage. (HP 13/28)
+Wild Emberpup uses Scratch!
+It's not very effective...
+Your Aqualing takes 3 damage. (HP 21/30)
+Your Aqualing: HP 21/30
+Wild Emberpup: HP 13/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's super effective!
+Wild Emberpup takes 11 damage. (HP 2/28)
+Wild Emberpup uses Scratch!
+It's not very effective...
+Your Aqualing takes 2 damage. (HP 19/30)
+Your Aqualing: HP 19/30
+Wild Emberpup: HP 2/28
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's super effective!
+Wild Emberpup takes 10 damage. (HP 0/28)
+Wild Emberpup fainted! You win!
+=== A wild Leafling appears! (stage 2)
+Your Aqualing: HP 19/30
+Wild Leafling: HP 36/36
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's not very effective...
+Wild Leafling takes 4 damage. (HP 32/36)
+Wild Leafling uses Vine Whip!
+It's super effective!
+Your Aqualing takes 9 damage. (HP 10/30)
+Your Aqualing: HP 10/30
+Wild Leafling: HP 32/36
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's not very effective...
+Wild Leafling takes 3 damage. (HP 29/36)
+Wild Leafling uses Leaf Storm!
+It's super effective!
+Your Aqualing takes 14 damage. (HP 0/30)
+Your Aqualing fainted... Game over! You reached stage 2.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 2
+=== A wild Leafling appears! (stage 1)
+Your Aqualing: HP 30/30
+Wild Leafling: HP 32/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 1
+Your Aqualing uses Water Jet!
+It's not very effective...
+Wild Leafling takes 5 damage. (HP 27/32)
+Wild Leafling uses Leaf Storm!
+It's super effective!
+Your Aqualing takes 16 damage. (HP 14/30)
+Your Aqualing: HP 14/30
+Wild Leafling: HP 27/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 3
+Your Aqualing uses Tide Wave!
+It's not very effective...
+Wild Leafling takes 3 damage. (HP 24/32)
+Wild Leafling uses Tackle!
+It's super effective!
+Your Aqualing takes 9 damage. (HP 5/30)
+Your Aqualing: HP 5/30
+Wild Leafling: HP 24/32
+1) Water Jet (7)
+2) Tail Slap (5)
+3) Tide Wave (10)
+4) Run
+> 2
+Your Aqualing uses Tail Slap!
+It's not very effective...
+Wild Leafling takes 2 damage. (HP 22/32)
+Wild Leafling uses Leaf Storm!
+It's super effective!
+Your Aqualing takes 13 damage. (HP 0/30)
+Your Aqualing fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Emberpup appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Emberpup: HP 28/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's not very effective...
+Wild Emberpup takes 4 damage. (HP 24/28)
+Wild Emberpup uses Flame Burst!
+It's super effective!
+Your Leafling takes 17 damage. (HP 15/32)
+Your Leafling: HP 15/32
+Wild Emberpup: HP 24/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Aqualing appears! (stage 1)
+Your Leafling: HP 15/32
+Wild Aqualing: HP 30/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 12 damage. (HP 18/30)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 1 damage. (HP 14/32)
+Your Leafling: HP 14/32
+Wild Aqualing: HP 18/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+It's super effective!
+Wild Aqualing takes 8 damage. (HP 10/30)
+Wild Aqualing uses Water Jet!
+It's not very effective...
+Your Leafling takes 2 damage. (HP 12/32)
+Your Leafling: HP 12/32
+Wild Aqualing: HP 10/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's super effective!
+Wild Aqualing takes 9 damage. (HP 1/30)
+Wild Aqualing uses Tail Slap!
+It's not very effective...
+Your Leafling takes 1 damage. (HP 11/32)
+Your Leafling: HP 11/32
+Wild Aqualing: HP 1/30
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Emberpup appears! (stage 1)
+Your Leafling: HP 11/32
+Wild Emberpup: HP 28/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+It's not very effective...
+Wild Emberpup takes 3 damage. (HP 25/28)
+Wild Emberpup uses Scratch!
+It's super effective!
+Your Leafling takes 9 damage. (HP 2/32)
+Your Leafling: HP 2/32
+Wild Emberpup: HP 25/28
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+It's not very effective...
+Wild Emberpup takes 5 damage. (HP 20/28)
+Wild Emberpup uses Ember!
+It's super effective!
+Your Leafling takes 11 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 3
+=== A wild Leafling appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Leafling: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> run
+You ran away!
+=== A wild Leafling appears! (stage 1)
+Your Leafling: HP 32/32
+Wild Leafling: HP 32/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+Wild Leafling takes 6 damage. (HP 26/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 10 damage. (HP 22/32)
+Your Leafling: HP 22/32
+Wild Leafling: HP 26/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 3
+Your Leafling uses Leaf Storm!
+Wild Leafling takes 12 damage. (HP 14/32)
+Wild Leafling uses Tackle!
+Your Leafling takes 6 damage. (HP 16/32)
+Your Leafling: HP 16/32
+Wild Leafling: HP 14/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 2
+Your Leafling uses Tackle!
+Wild Leafling takes 3 damage. (HP 11/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 8 damage. (HP 8/32)
+Your Leafling: HP 8/32
+Wild Leafling: HP 11/32
+1) Vine Whip (7)
+2) Tackle (5)
+3) Leaf Storm (10)
+4) Run
+> 1
+Your Leafling uses Vine Whip!
+Wild Leafling takes 6 damage. (HP 5/32)
+Wild Leafling uses Leaf Storm!
+Your Leafling takes 11 damage. (HP 0/32)
+Your Leafling fainted... Game over! You reached stage 1.
+> play
+=== Tiny Monsters ===
+Defeat 5 wild monsters to become champion. Type 'quit' any time to leave.
+Choose your starter:
+1) Emberpup (Fire)
+2) Aqualing (Water)
+3) Leafling (Grass)
+> 1
+=== A wild Leafling appears! (stage 1)
+Your Emberpup: HP 28/28
+Wild Leafling: HP 32/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+It's super effective!
+Wild Leafling takes 9 damage. (HP 23/32)
+Wild Leafling uses Vine Whip!
+It's not very effective...
+Your Emberpup takes 4 damage. (HP 24/28)
+Your Emberpup: HP 24/28
+Wild Leafling: HP 23/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+It's super effective!
+Wild Leafling takes 11 damage. (HP 12/32)
+Wild Leafling uses Leaf Storm!
+It's not very effective...
+Your Emberpup takes 3 damage. (HP 21/28)
+Your Emberpup: HP 21/28
+Wild Leafling: HP 12/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 1
+Your Emberpup uses Ember!
+It's super effective!
+Wild Leafling takes 9 damage. (HP 3/32)
+Wild Leafling uses Tackle!
+It's not very effective...
+Your Emberpup takes 2 damage. (HP 19/28)
+Your Emberpup: HP 19/28
+Wild Leafling: HP 3/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+It's super effective!
+Wild Leafling takes 5 damage. (HP 0/32)
+Wild Leafling fainted! You win!
+=== A wild Emberpup appears! (stage 2)
+Your Emberpup: HP 19/28
+Wild Emberpup: HP 32/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 2
+Your Emberpup uses Scratch!
+Wild Emberpup takes 5 damage. (HP 27/32)
+Wild Emberpup uses Scratch!
+Your Emberpup takes 7 damage. (HP 12/28)
+Your Emberpup: HP 12/28
+Wild Emberpup: HP 27/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 3
+Your Emberpup uses Flame Burst!
+Wild Emberpup takes 8 damage. (HP 19/32)
+Wild Emberpup uses Flame Burst!
+Your Emberpup takes 10 damage. (HP 2/28)
+Your Emberpup: HP 2/28
+Wild Emberpup: HP 19/32
+1) Ember (7)
+2) Scratch (5)
+3) Flame Burst (10)
+4) Run
+> 
+=== time's up after 16 game(s) (0 champion runs, 15 faints) - leaving ===
+quit
+Left the game.
+> 
+=== recording complete ===
+
+wrote build/game_screencast.cast
